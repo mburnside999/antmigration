@@ -3,7 +3,7 @@ public class MBTest{
    
    public MBTest() {
 
-   String str='Hello World';
+   String str='Hello Merged World';
 
    }
     

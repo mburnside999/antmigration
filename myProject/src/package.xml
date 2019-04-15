@@ -3,6 +3,8 @@
     <types>
         <members>MBTest</members>
         <members>MBTestTest</members>
+         <members>MBTest2</members>
+        <members>MBTestTest2</members>
         <name>ApexClass</name>
     </types>
     <version>36.0</version>

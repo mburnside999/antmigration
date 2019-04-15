@@ -52,6 +52,7 @@
      <target name="deployMyProject">
       <sf:deploy username="${sf.username}" password="${sf.password}" sessionId="${sf.sessionId}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" deployRoot="myProject/src" rollbackOnError="true"  testLevel="RunSpecifiedTests">
         <runTest>MBTestTest</runTest>
+         <runTest>MBTestTest2</runTest>
        </sf:deploy>
     </target>
 

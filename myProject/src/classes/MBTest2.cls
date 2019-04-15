@@ -1,7 +1,7 @@
 public class MBTest2{
    
    
-   public MBTest() {
+   public MBTest2() {
 
    String str='Hello';
 

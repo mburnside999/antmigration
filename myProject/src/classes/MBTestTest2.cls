@@ -4,7 +4,7 @@ public class MBTestTest2 {
 @isTest
 public static void testme() {
 
-MBTest mbt = new MBTest2();
+MBTest2 mbt = new MBTest2();
 
 System.assert(mbt!=null);
 
